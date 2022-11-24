@@ -28,19 +28,21 @@ public class AnimalRunner {
        
         Cat c1 = new Cat();
         c1.meov();
-        c1.eat();
-        c1.drink();
+        c1.eat1();
+        c1.drink1();
                 
         Bird b1 = new Bird();
-        b1.eat();
+        b1.eat1();
         b1.tweet();
-        b1.drink();
+        b1.drink1();
         
         Dog d1 =new Dog();
         d1.bark();
-        d1.drink();
-        d1.eat();
+        d1.drink1();
+        d1.eat1();
         Animal a1 = new Animal();
+
+
 
 
         

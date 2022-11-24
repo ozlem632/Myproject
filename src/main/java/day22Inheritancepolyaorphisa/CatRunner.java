@@ -1,5 +1,7 @@
 package day22Inheritancepolyaorphisa;
 
+import denemechildclasslar.Cat1;
+
 public class CatRunner {
     public static void main(String[] args) {
         Cat cat1 = new Cat();
@@ -13,4 +15,14 @@ public class CatRunner {
 
      */
     }
+
+
+
+
+
+
+
 }
+
+
+

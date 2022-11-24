@@ -27,15 +27,15 @@ public class Student {
      */
 
 
-    public String stdName = "Tom Hanks";
-    //protected olanlar baska package den kullanilamaz .fakat child class icinden kullanilir
-    protected String address = "Miami";
-    String email = "th@gmail.com";//default olanlar baska pakce de kullanilamaz
-    //privete olanlar kendi classlarinda kullanilirdefault yazilmaz
-
-    private String stdId ="20206517004";
-
-
+//    public String stdName = "Tom Hanks";
+//    //protected olanlar baska package den kullanilamaz .fakat child class icinden kullanilir
+//    protected String address = "Miami";
+//    String email = "th@gmail.com";//default olanlar baska pakce de kullanilamaz
+//    //privete olanlar kendi classlarinda kullanilirdefault yazilmaz
+//
+//    private String stdId ="20206517004";
+//
+//
 
 
 }

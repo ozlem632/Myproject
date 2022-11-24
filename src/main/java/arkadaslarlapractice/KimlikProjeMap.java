@@ -97,6 +97,8 @@ public class KimlikProjeMap {
                     if(vatandas.containsKey(silinecekTc)){
                         System.out.println(vatandas.remove(silinecekTc));
                         System.out.println("basariyla silinmistir");
+
+                        System.out.println("hersey icin tesekkur");
                     }
 
 
